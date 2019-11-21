@@ -1,4 +1,6 @@
-package tv.dzj.java.algorithm.sort;
+package tv.dzj.java.algorithm.sort.selection;
+
+import tv.dzj.java.algorithm.sort.Sort;
 
 /**
  * 选择排序
@@ -7,7 +9,7 @@ package tv.dzj.java.algorithm.sort;
  * 不断进行这样的操作，直到将整个数组排序。
  * @Author: <a href="daizengjie@gmail.com">dzj</a>
  */
-public class Selection<T extends Comparable<T>> extends Sort<T>{
+public class Selection<T extends Comparable<T>> extends Sort<T> {
     @Override
     public void sort(T[] nums) {
         int N = nums.length;

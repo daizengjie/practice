@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea190e31-f70d-421a-bc14-cfa0842fb97a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/tv/dzj/java/algorithm/sort/Selection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tv/dzj/java/algorithm/sort/Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tv/dzj/java/algorithm/threesum/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tv/dzj/java/algorithm/threesum/ThreeSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tv/dzj/java/algorithm/threesum/ThreeSumBinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tv/dzj/java/algorithm/threesum/ThreeSumSlow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tv/dzj/java/algorithm/threesum/ThreeSumTwoPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tv/dzj/java/algorithm/sort/Bubble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tv/dzj/java/algorithm/sort/Insertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tv/dzj/java/algorithm/sort/Merge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tv/dzj/java/algorithm/sort/Shell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tv/dzj/java/algorithm/sort/Up2DownMergeSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -24,27 +22,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tv/dzj/java/thread/basic/MyRunnable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tv/dzj/java/algorithm/threesum/ThreeSum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/tv/dzj/java/algorithm/threesum/ThreeSumSlow.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -72,7 +49,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/tv/dzj/java/algorithm/sort/Selection.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
@@ -82,13 +59,49 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tv/dzj/java/algorithm/sort/Sort.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/tv/dzj/java/algorithm/sort/Bubble.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/tv/dzj/java/algorithm/sort/Insertion.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="320">
-              <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="17" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/tv/dzj/java/algorithm/sort/Shell.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/tv/dzj/java/algorithm/sort/Merge.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/tv/dzj/java/algorithm/sort/Up2DownMergeSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
               <folding>
-                <element signature="e#237#238#0" expanded="true" />
-                <element signature="e#277#278#0" expanded="true" />
+                <element signature="e#227#228#0" expanded="true" />
+                <element signature="e#282#283#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -99,30 +112,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
               <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tv/dzj/java/thread/basic/MyCallable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#213#214#0" expanded="true" />
-                <element signature="e#237#238#0" expanded="true" />
-                <element signature="e#513#522#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tv/dzj/java/thread/basic/MyThread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -155,6 +144,11 @@
         <option value="$PROJECT_DIR$/src/main/java/tv/dzj/java/algorithm/threesum/ThreeSumTwoPoint.java" />
         <option value="$PROJECT_DIR$/src/main/java/tv/dzj/java/algorithm/sort/Sort.java" />
         <option value="$PROJECT_DIR$/src/main/java/tv/dzj/java/algorithm/sort/Selection.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tv/dzj/java/algorithm/sort/Bubble.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tv/dzj/java/algorithm/sort/Insertion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tv/dzj/java/algorithm/sort/Shell.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tv/dzj/java/algorithm/sort/Up2DownMergeSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tv/dzj/java/algorithm/sort/Merge.java" />
       </list>
     </option>
   </component>
@@ -233,6 +227,34 @@
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="sort" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="java-practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="threesum" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="nio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -272,7 +294,7 @@
       <option name="presentableId" value="Default" />
       <updated>1574059127289</updated>
       <workItem from="1574059128988" duration="2271000" />
-      <workItem from="1574061520052" duration="7821000" />
+      <workItem from="1574061520052" duration="14867000" />
     </task>
     <task id="LOCAL-00001" summary="thread basics">
       <created>1574062386161</created>
@@ -288,11 +310,18 @@
       <option name="project" value="LOCAL" />
       <updated>1574063858136</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="三数之和为0的三元组&#10;选择排序">
+      <created>1574148862769</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1574148862770</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10092000" />
+    <option name="totallyTimeSpent" value="17138000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -333,7 +362,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="thread basics" />
-    <option name="LAST_COMMIT_MESSAGE" value="thread basics" />
+    <MESSAGE value="三数之和为0的三元组&#10;选择排序" />
+    <option name="LAST_COMMIT_MESSAGE" value="三数之和为0的三元组&#10;选择排序" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -439,10 +469,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tv/dzj/java/algorithm/sort/Selection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/tv/dzj/java/algorithm/sort/Sort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        <state relative-caret-position="120">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
           <folding>
             <element signature="e#237#238#0" expanded="true" />
             <element signature="e#277#278#0" expanded="true" />
@@ -450,10 +487,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tv/dzj/java/algorithm/sort/Selection.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/tv/dzj/java/algorithm/sort/Bubble.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        <state relative-caret-position="380">
+          <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tv/dzj/java/algorithm/sort/Insertion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tv/dzj/java/algorithm/sort/Shell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tv/dzj/java/algorithm/sort/Up2DownMergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#227#228#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tv/dzj/java/algorithm/sort/Merge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
         </state>
       </provider>
     </entry>

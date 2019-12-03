@@ -20,5 +20,18 @@ public abstract class Merge<T extends Comparable<T>> extends Sort<T> {
             //将数据复制到辅助数组
             aux[k] = nums[k];
         }
+        for(int k = l;k <= h; k++){
+            if(i > m){
+                nums[k] = aux[j++];
+            }else if(j > h){
+                nums[k] = aux[i++];
+            }else if(aux[i].compareTo(aux[j]) < 0){
+                //先进行这一步，保证稳定
+                nums[k] = aux[i++];
+            }else{
+                nums[k] = aux[j++];
+            }
+
+        }
     }
 }

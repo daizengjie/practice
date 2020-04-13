@@ -15,7 +15,7 @@ import java.util.Arrays;
  *
  * 快速选择 ：时间复杂度 O(N)，空间复杂度 O(1)
  *
- * @Author: <a href="daizengjie@gmail.com">dzj</a>
+ * @author dzj
  */
 public class KthElement {
 

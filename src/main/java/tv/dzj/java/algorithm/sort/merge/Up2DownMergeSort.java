@@ -4,7 +4,7 @@ import tv.dzj.java.algorithm.sort.merge.Merge;
 
 /**
  * 自顶而下归并排序
- * @Author: <a href="daizengjie@gmail.com">dzj</a>
+ * @author dzj
  */
 public class Up2DownMergeSort<T extends Comparable<T>> extends Merge<T> {
     @Override

@@ -10,7 +10,7 @@ package tv.dzj.java.leetcode;
  * Output: [1,2,2,3,5,6]
  * 题目描述：把归并结果存到第一个数组上。
  * 需要从尾开始遍历，否则在 nums1 上归并得到的值会覆盖还未进行归并比较的值。
- * @Author: <a href="daizengjie@gmail.com">dzj</a>
+ * @author dzj
  */
 public class Merge {
     public void merge(int[] nums1,int m,int[] nums2,int n){

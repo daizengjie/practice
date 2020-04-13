@@ -15,7 +15,7 @@ import java.util.List;
  * 快速排序是原地排序，不需要辅助数组，但是递归调用需要辅助栈。
  * 在进行快速排序时需要随机打乱数组。
  * 最好情况是O(NlogN) 最坏情况是O(N^2)
- * @Author: <a href="daizengjie@gmail.com">dzj</a>
+ * @author dzj
  */
 public class QuickSort<T extends Comparable<T>> extends Sort<T> {
     @Override

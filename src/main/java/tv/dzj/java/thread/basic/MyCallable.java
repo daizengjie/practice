@@ -4,7 +4,7 @@ import java.util.concurrent.Callable;
 import java.util.concurrent.FutureTask;
 
 /**
- * @Author: <a href="daizengjie@gmail.com">dzj</a>
+ * @author dzj
  */
 public class MyCallable implements Callable<Integer> {
     public Integer call(){

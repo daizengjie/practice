@@ -2,7 +2,7 @@ package tv.dzj.java.algorithm.union_find;
 
 /**
  * 加权QuickUnion
- * @Author: <a href="daizengjie@gmail.com">dzj</a>
+ * @author dzj
  */
 public class WeightedQuickUnionUF extends UF{
 

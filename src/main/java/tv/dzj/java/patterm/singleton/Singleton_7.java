@@ -2,7 +2,7 @@ package tv.dzj.java.patterm.singleton;
 
 /**
  * 双重检验锁
- * @Author: <a href="daizengjie@gmail.com">dzj</a>
+ * @author dzj
  */
 public class Singleton_7 {
     private volatile static Singleton_7 instance;

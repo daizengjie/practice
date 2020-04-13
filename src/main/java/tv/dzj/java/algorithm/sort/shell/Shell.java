@@ -5,7 +5,7 @@ import tv.dzj.java.algorithm.sort.Sort;
 /**
  * 希尔排序
  * 使用插入排序对间隔 h 的序列进行排序。通过不断减小 h，最后令 h=1，就可以使得整个数组是有序的。
- * @Author: <a href="daizengjie@gmail.com">dzj</a>
+ * @author dzj
  */
 public class Shell<T extends Comparable<T>> extends Sort<T> {
     @Override

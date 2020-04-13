@@ -2,7 +2,7 @@ package tv.dzj.java.data_structure;
 
 /**
  * 栈
- * @Author: <a href="daizengjie@gmail.com">dzj</a>
+ * @author dzj
  */
 public interface MyStack<Item> extends Iterable<Item>{
 

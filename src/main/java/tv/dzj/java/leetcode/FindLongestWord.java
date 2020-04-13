@@ -17,7 +17,7 @@ import java.util.List;
  *
  * 通过删除字符串 s 中的一个字符能得到字符串 t，可以认为 t 是 s 的子序列
  * 我们可以使用双指针来判断一个字符串是否为另一个字符串的子序列。
- * @Author: <a href="daizengjie@gmail.com">dzj</a>
+ * @author dzj
  */
 public class FindLongestWord {
     public String findLongestWord(String s, List<String> d){

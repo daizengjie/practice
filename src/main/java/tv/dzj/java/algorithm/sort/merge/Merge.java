@@ -5,7 +5,7 @@ import tv.dzj.java.algorithm.sort.Sort;
 /**
  * 归并排序
  * 将数组分成两部分，分别进行排序，然后归并起来。
- * @Author: <a href="daizengjie@gmail.com">dzj</a>
+ * @author dzj
  */
 public abstract class Merge<T extends Comparable<T>> extends Sort<T> {
     /**

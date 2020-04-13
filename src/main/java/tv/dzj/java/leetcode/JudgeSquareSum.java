@@ -12,7 +12,7 @@ package tv.dzj.java.leetcode;
  * 设右指针为 x，左指针固定为 0，为了使 0^2 + x^2 的值尽可能接近 target，我们可以将 x 取为 sqrt(target)。
  *
  * 复杂度：时间复杂度为 O(sqrt(target)),空间复杂度为 O(1)
- * @Author: <a href="daizengjie@gmail.com">dzj</a>
+ * @author dzj
  */
 public class JudgeSquareSum {
     public boolean judgeSquareSum(int target){

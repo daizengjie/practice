@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 /**
  * 先排序再二分查找
- * @Author: <a href="daizengjie@gmail.com">dzj</a>
+ * @author dzj
  */
 public class ThreeSumBinarySearch implements ThreeSum {
     public int count(int[] nums) {

@@ -6,7 +6,7 @@ import tv.dzj.java.algorithm.sort.Sort;
  * 冒泡排序
  * 从左到右不断交换相邻逆序的元素，在一轮的循环之后，可以让未排序的最大元素上浮到右侧。
  * 在一轮循环中，如果没有发生交换，那么说明数组已经是有序的，此时可以直接退出。
- * @Author: <a href="daizengjie@gmail.com">dzj</a>
+ * @author dzj
  */
 public class Bubble<T extends Comparable<T>> extends Sort<T> {
     @Override

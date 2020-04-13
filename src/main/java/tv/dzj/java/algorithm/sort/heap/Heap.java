@@ -2,7 +2,7 @@ package tv.dzj.java.algorithm.sort.heap;
 
 /**
  * 堆 完全二叉树
- * @Author: <a href="daizengjie@gmail.com">dzj</a>
+ * @author dzj
  */
 public class Heap<T extends Comparable<T>>{
 

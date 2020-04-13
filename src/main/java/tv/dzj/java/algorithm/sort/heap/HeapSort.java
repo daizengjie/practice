@@ -12,7 +12,7 @@ import tv.dzj.java.algorithm.sort.Sort;
  *  构建堆
  *  交换堆顶元素与最后一个元素
  *  交换之后进行下沉操作
- * @Author: <a href="daizengjie@gmail.com">dzj</a>
+ * @author dzj
  */
 public class HeapSort<T extends Comparable<T>> extends Sort<T> {
 

@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 /**
  * 先排序再双指针
- * @Author: <a href="daizengjie@gmail.com">dzj</a>
+ * @author dzj
  */
 public class ThreeSumTwoPoint implements ThreeSum{
     public int count(int[] nums) {

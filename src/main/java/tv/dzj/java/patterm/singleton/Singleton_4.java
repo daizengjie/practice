@@ -3,7 +3,7 @@ package tv.dzj.java.patterm.singleton;
 /**
  * 饿汉 （变种）
  * 在类初始化即实例化instance
- * @Author: <a href="daizengjie@gmail.com">dzj</a>
+ * @author dzj
  */
 public class Singleton_4 {
 

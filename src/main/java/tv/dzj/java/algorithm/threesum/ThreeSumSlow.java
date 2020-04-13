@@ -1,7 +1,7 @@
 package tv.dzj.java.algorithm.threesum;
 
 /**
- * @Author: <a href="daizengjie@gmail.com">dzj</a>
+ * @author dzj
  */
 public class ThreeSumSlow implements ThreeSum{
     public int count(int[] nums) {

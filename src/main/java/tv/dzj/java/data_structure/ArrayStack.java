@@ -4,7 +4,7 @@ import java.util.Iterator;
 
 /**
  * 数组实现栈
- * @Author: <a href="daizengjie@gmail.com">dzj</a>
+ * @author dzj
  */
 public class ArrayStack<Item> implements MyStack<Item> {
 

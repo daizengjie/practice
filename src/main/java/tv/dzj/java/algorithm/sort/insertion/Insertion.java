@@ -5,7 +5,7 @@ import tv.dzj.java.algorithm.sort.Sort;
 /**
  * 插入排序
  * 插入到左侧已经排序的数组，使得插入之后左侧数组依然有序。
- * @Author: <a href="daizengjie@gmail.com">dzj</a>
+ * @author dzj
  */
 public class Insertion<T extends Comparable<T>> extends Sort<T> {
     @Override

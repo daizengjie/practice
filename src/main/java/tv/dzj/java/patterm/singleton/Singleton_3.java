@@ -3,7 +3,7 @@ package tv.dzj.java.patterm.singleton;
 /**
  * 饿汉
  * 基于classloder机制避免了多线程的同步问题
- * @Author: <a href="daizengjie@gmail.com">dzj</a>
+ * @author dzj
  */
 public class Singleton_3 {
 

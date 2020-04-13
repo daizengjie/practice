@@ -2,7 +2,7 @@ package tv.dzj.java.algorithm.threesum;
 
 /**
  * 二分查找
- * @Author: <a href="daizengjie@gmail.com">dzj</a>
+ * @author dzj
  */
 public class BinarySearch {
     public static int search(int[] nums, int target){

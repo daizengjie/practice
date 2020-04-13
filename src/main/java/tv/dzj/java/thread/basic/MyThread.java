@@ -1,7 +1,7 @@
 package tv.dzj.java.thread.basic;
 
 /**
- * @Author: <a href="daizengjie@gmail.com">dzj</a>
+ * @author dzj
  */
 public class MyThread extends Thread{
     @Override

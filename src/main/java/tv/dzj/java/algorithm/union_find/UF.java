@@ -2,7 +2,7 @@ package tv.dzj.java.algorithm.union_find;
 
 /**
  * 并查集
- * @Author: <a href="daizengjie@gmail.com">dzj</a>
+ * @author dzj
  */
 public abstract class UF {
 

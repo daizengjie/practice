@@ -12,7 +12,7 @@ import java.util.List;
  * 为了快速判断一个字符是不是元音字符，我们将全部元音字符添加到集合 HashSet 中，从而以 O(1) 的时间复杂度进行该操作。
  *
  * 复杂度：时间复杂度为 O(N)：只需要遍历所有元素一次，空间复杂度 O(1)：只需要使用两个额外变量
- * @Author: <a href="daizengjie@gmail.com">dzj</a>
+ * @author dzj
  */
 public class ReverseVowels {
     List l = Arrays.asList("a","e","i","o","u","A","E","I","O","U");

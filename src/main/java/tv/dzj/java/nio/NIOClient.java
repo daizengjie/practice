@@ -5,7 +5,7 @@ import java.io.OutputStream;
 import java.net.Socket;
 
 /**
- * @Author: <a href="daizengjie@gmail.com">dzj</a>
+ * @author dzj
  */
 public class NIOClient {
     public static void main(String[] args) throws IOException {

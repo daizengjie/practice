@@ -15,7 +15,7 @@ package tv.dzj.java.leetcode;
  * 如果出现两个指针指向的字符不相等的情况，我们就试着删除一个字符，再判断删除完之后的字符串是否是回文字符串。
  * 在试着删除字符时，我们既可以删除左指针指向的字符，也可以删除右指针指向的字符。
  * 需要用到递归的思想
- * @Author: <a href="daizengjie@gmail.com">dzj</a>
+ * @author dzj
  */
 public class ValidPalindrome {
     public boolean validPalindrome(String s){

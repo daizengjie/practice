@@ -4,7 +4,7 @@ import tv.dzj.java.algorithm.sort.Sort;
 
 /**
  * 基于切分的快速选择
- * @Author: <a href="daizengjie@gmail.com">dzj</a>
+ * @author dzj
  */
 public class PartitionSelection<T extends Comparable<T>> extends Sort<T> {
     @Override

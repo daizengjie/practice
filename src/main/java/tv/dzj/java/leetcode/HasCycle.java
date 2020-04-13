@@ -4,7 +4,7 @@ package tv.dzj.java.leetcode;
  * 判断链表是否存在环
  * 141. Linked List Cycle (Easy)
  * 使用双指针，一个指针每次移动一个节点，一个指针每次移动两个节点，如果存在环，那么这两个指针一定会相遇。
- * @Author: <a href="daizengjie@gmail.com">dzj</a>
+ * @author dzj
  */
 public class HasCycle {
     public boolean hasCycle(ListNode head){

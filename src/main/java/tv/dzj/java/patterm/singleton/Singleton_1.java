@@ -2,7 +2,7 @@ package tv.dzj.java.patterm.singleton;
 
 /**
  * 懒汉，线程不安全
- * @Author: <a href="daizengjie@gmail.com">dzj</a>
+ * @author dzj
  */
 public class Singleton_1 {
 

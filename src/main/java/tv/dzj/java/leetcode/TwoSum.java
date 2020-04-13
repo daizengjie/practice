@@ -13,7 +13,7 @@ package tv.dzj.java.leetcode;
  * 如果 sum < target，移动较小的元素，使 sum 变大一些。
  *
  * 复杂度：时间复杂度为 O(N)。只使用了两个额外变量，空间复杂度为 O(1)。
- * @Author: <a href="daizengjie@gmail.com">dzj</a>
+ * @author dzj
  */
 public class TwoSum {
     public int[] twoSum(int[] numbers, int target){

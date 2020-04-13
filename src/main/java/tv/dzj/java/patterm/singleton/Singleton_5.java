@@ -1,4 +1,4 @@
-package tv.dzj.pattern.singleton;
+package tv.dzj.java.patterm.singleton;
 
 /**
  * 静态内部类

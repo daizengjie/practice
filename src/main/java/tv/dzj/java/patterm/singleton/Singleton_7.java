@@ -1,4 +1,4 @@
-package tv.dzj.pattern.singleton;
+package tv.dzj.java.patterm.singleton;
 
 /**
  * 双重检验锁

@@ -1,4 +1,4 @@
-package tv.dzj.pattern.singleton;
+package tv.dzj.java.patterm.singleton;
 
 /**
  * 懒汉，线程安全，效率低

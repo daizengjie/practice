@@ -1,9 +1,12 @@
 package tv.dzj.java.clone;
+
+import java.io.Serializable;
+
 /**
  * @author dzj
  * @date 2020/4/14 2:07
  */
-public class Address implements Cloneable{
+public class Address implements Cloneable, Serializable {
 
     private Integer id;
     private String city;
